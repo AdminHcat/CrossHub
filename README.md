@@ -14,7 +14,7 @@
 下载lantern-jailbreak.zip并解压运行exe，按提示操作即可永久免费使用蓝灯！  
 
 # 如何安全地访问互联网？
-_Tor Browser是一个完美的解决方案。请先获取网络自由，然后[访问 Tor 官方页面](https://torproject.org/)下载并使用。
+_Tor Browser是一个完美的解决方案。请先获取网络自由，然后[访问 Tor 官方页面](https://torproject.org/)下载并使用。_
 
 Tor Project, Inc 在2006年成为501(c)3非营利组织，但“洋葱路由”的概念始于20世纪90年代中期。
 
